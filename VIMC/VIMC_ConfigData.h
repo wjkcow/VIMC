@@ -10,4 +10,6 @@
 
 @interface VIMC_ConfigData : NSObject
 @property (copy) NSMutableArray *mapData;
+@property (copy) BOOL check;
+
 @end
