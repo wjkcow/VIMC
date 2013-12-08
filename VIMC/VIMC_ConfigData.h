@@ -9,5 +9,5 @@
 #import <Foundation/Foundation.h>
 
 @interface VIMC_ConfigData : NSObject
-
+@property (copy) NSMutableArray *mapData;
 @end
