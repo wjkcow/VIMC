@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>671CBE10-BBDE-47A5-BDFF-03C852CB3876</string>
+	<key>IDESourceControlProjectName</key>
+	<string>VIMC</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>44B70E36-984C-42D0-8555-8A3CC7E21846</key>
+		<string>https://github.com/wjkcow/VIMC.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>VIMC.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>44B70E36-984C-42D0-8555-8A3CC7E21846</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wjkcow/VIMC.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>44B70E36-984C-42D0-8555-8A3CC7E21846</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>44B70E36-984C-42D0-8555-8A3CC7E21846</string>
+			<key>IDESourceControlWCCName</key>
+			<string>VIMC</string>
+		</dict>
+	</array>
+</dict>
+</plist>

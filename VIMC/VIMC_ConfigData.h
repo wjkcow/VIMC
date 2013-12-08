@@ -10,4 +10,5 @@
 
 @interface VIMC_ConfigData : NSObject
 
+@property (copy) NSString * teststring;
 @end
