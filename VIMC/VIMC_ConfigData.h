@@ -9,6 +9,10 @@
 #import <Foundation/Foundation.h>
 
 @interface VIMC_ConfigData : NSObject
+<<<<<<< HEAD
 
 @property (copy) NSString * teststring;
+=======
+@property (copy) NSMutableArray *mapData;
+>>>>>>> 024e3ba9146efa537afb0223f8194798c0d84019
 @end

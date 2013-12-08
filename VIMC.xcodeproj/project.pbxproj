@@ -124,6 +124,7 @@
 				D24253D01854263900BA85D4 /* VIMC_ConfigData.h */,
 				D24253D11854263900BA85D4 /* VIMC_ConfigData.m */,
 				D24253B3185425FC00BA85D4 /* Images.xcassets */,
+				D24253D31854288600BA85D4 /* Map */,
 				D24253CF1854261000BA85D4 /* Edit */,
 				D24253A2185425FC00BA85D4 /* Supporting Files */,
 			);
@@ -165,6 +166,13 @@
 			children = (
 			);
 			name = Edit;
+			sourceTree = "<group>";
+		};
+		D24253D31854288600BA85D4 /* Map */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Map;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -479,6 +487,7 @@
 				D24253CB185425FC00BA85D4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D24253CC185425FC00BA85D4 /* Build configuration list for PBXNativeTarget "VIMCTests" */ = {
 			isa = XCConfigurationList;
@@ -487,6 +496,7 @@
 				D24253CE185425FC00BA85D4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
